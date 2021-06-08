@@ -1,2 +1,4 @@
 # StringCalculator
 String Calculator Kata
+
+
